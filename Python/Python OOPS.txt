@@ -1,0 +1,8 @@
+1.OOPs concepts
+object oriented programming --it revolves around objects.object centric
+fundamentals
+1.object
+   it has identity,attributes,state and behavior
+    eg:- book,pen etc..
+
+

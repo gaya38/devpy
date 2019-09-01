@@ -1,0 +1,5 @@
+This is gayathri
+writing python program
+executing file input output
+reading the data
+printing the data

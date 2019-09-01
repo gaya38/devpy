@@ -1,0 +1,13 @@
+def sqroot(x):
+    return (x**(0.5)) 
+def addition(x,y):
+    return (x+y)
+def substraction(x,y):
+    return (x-y)
+def multiplication(x,y):
+    return (x*y)
+def division(x,y):
+    return (x/y)
+
+
+

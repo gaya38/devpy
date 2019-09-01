@@ -1,0 +1,11 @@
+print "Exploring all the escape character in strings:"
+print "\a"
+print "ab"+"\b"+"c"
+print "\e"
+print "hello\fworld"
+print "hello\nworld"
+print "hello\nnnworld"
+print "123456\rXX_XX"
+print "\s"
+print "\t*hello"
+

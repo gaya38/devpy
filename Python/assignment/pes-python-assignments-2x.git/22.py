@@ -1,0 +1,16 @@
+import math
+print "perform all the trignomatric operations on given numbers"
+x=input("Enter the x value in radians:")
+y=input("Enter the x value radians:")
+print "acos value of x:",math.acos(x)
+print "asin value of x:",math.asin(x)
+print "atan value of x:",math.atan(x)
+print "atan values of x and y:",math.atan2(y,x)
+print "converts angle x from radians to degrees",math.degrees(x)
+x=input("Enter the x value in degrees:")
+y=input("Enter the y value in degrees:")
+print "cos value of x:",math.cos(x)
+print "hypot value of x and y:",math.hypot(x,y)
+print "sin value of x:",math.sin(x)
+print "tan value of x:",math.tan(x)
+print "converts angle x from degrees to radians",math.radians(x)

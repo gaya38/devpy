@@ -1,0 +1,7 @@
+Y1=int(strftime("%Y"))
+m1=int(strftime("%m"))
+d1=int(strftime("%d"))
+H1=int(strftime("%H"))
+M1=int(strftime("%M"))
+S1=int(strftime("%S"))
+14:23 16-08-2018list1=[10,20,30,40,50,60]
